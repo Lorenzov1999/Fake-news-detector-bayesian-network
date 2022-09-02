@@ -1,5 +1,7 @@
 # Fake-news-detector-bayesian-network
 
+Final project of the advanced statistics course
+
 ***
 
 <h6 align="center">repository by Lorenzo Valentini</h6>

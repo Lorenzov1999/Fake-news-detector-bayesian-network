@@ -1,7 +1,9 @@
 <h1 align="center">naive bayes for fake news detection</h1>
 
 This repository contains the final project for the *Advanced statistics for Physics Analysis* [course](https://didattica.unipd.it/off/2021/LM/SC/SC2443/000ZZ/SCP8082557/N0), by **Prof. Garfagnini**, AY 2021/22.
-The project consists in the implementation of a Naive Bayes Classifier, for fake news detection in tweets from the Kaggle dataset
+Naive Bayes classifiers are powerful algorithms that are used for text data analysis and are connected to classification tasks of text in multiple classes.
+
+The goal of the project is to implement a Multinomial Naive Bayes classifier in R and test its performances in the classification of social media posts, in particular tweets. The classifier implemented has to detect fake news, determining the level of reliability of the tweets.
 ***
 
 <h6 align="center">repository by Lorenzo Valentini</h6>
